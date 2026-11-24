@@ -7,9 +7,9 @@ A single-file luxury landing page with a live bead-sort laboratory, a Python wai
 ```
 aurum-bead/
 ├── index.html          HTML + CSS + JS in one file
-├── server/server.py    stdlib HTTP server, POST /api/waitlist
-├── src/beadSort.ts     typed implementation
-├── java/BeadSort.java  Java implementation
+├── server.py    stdlib HTTP server, POST /api/waitlist
+├── beadSort.ts     typed implementation
+├── BeadSort.java  Java implementation
 └── README.md
 ```
 
