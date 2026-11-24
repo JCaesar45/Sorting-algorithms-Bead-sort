@@ -5,7 +5,7 @@ A single-file luxury landing page with a live bead-sort laboratory, a Python wai
 ## Structure
 
 ```
-aurum-bead/
+Sorting-algorithms-Bead-sort/
 ├── index.html          HTML + CSS + JS in one file
 ├── server.py    stdlib HTTP server, POST /api/waitlist
 ├── beadSort.ts     typed implementation
